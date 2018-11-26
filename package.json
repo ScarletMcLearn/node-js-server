@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AkibSadmanee/First-Node-Server.git"
+    "url": "git+https://github.com/ScarletMcLearn/node-js-server.git"
   },
-  "author": "Akib Sadmanee",
+  "author": "Scarlet McLearn",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkibSadmanee/First-Node-Server/issues"
+    "url": "https://github.com/ScarletMcLearn/node-js-server"
   },
-  "homepage": "https://github.com/AkibSadmanee/First-Node-Server#readme",
+  "homepage": "https://github.com/ScarletMcLearn/node-js-server",
   "dependencies": {
     "body-parser": "^1.18.3",
     "ejs": "^2.6.1",
